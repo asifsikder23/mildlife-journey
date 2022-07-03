@@ -1,0 +1,27 @@
+<style>
+        body{
+            background-color: rgb(199, 199, 199);
+            margin-right: 20px;
+        }
+        #login{
+            text-align: right;
+            font-size: 0.1px;
+        }
+        #heading{
+            color: brown;
+            font-size:x-large;
+        }
+        .blog1{
+            background-color: rgba(103, 167, 103, 0.301);
+            border: 2px solid rgb(96, 74, 224);
+        margin: auto;
+            padding: 10px;
+            text-align: justify;  
+        }
+        .titleheading{
+            text-align: center;
+            background-color: black;
+            color: aliceblue;
+            font-family: serif;
+        }
+    </style>
